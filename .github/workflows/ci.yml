@@ -12,7 +12,7 @@ env:
   # Common versions
   GO_VERSION: '1.23'
   GOLANGCI_VERSION: 'v2.1.2'
-  DOCKER_BUILDX_VERSION: 'v0.8.2'
+  DOCKER_BUILDX_VERSION: 'v0.21.1'
 
 jobs:
   detect-noop:

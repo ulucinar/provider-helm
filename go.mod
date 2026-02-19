@@ -1,6 +1,6 @@
 module github.com/crossplane-contrib/provider-helm
 
-go 1.24.11
+go 1.24.13
 
 require (
 	github.com/alecthomas/kingpin/v2 v2.4.0
